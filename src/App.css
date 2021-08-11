@@ -23,7 +23,6 @@ html{
   scroll-behavior: smooth;
   background-size: cover;
   background-repeat: no-repeat;
-  -webkit-font-smoothing: antialiased;
 }
 
 .searchc{display: inline-block;
@@ -153,7 +152,7 @@ p{
 }
 
 .card:hover {
-  transform: scale(1.02);
+  transform: scale(1.04);
 }
 
 .card:hover .bbtn {
