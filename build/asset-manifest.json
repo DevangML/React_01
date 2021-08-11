@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Searchbar/static/css/main.e9bc1ab0.chunk.css",
-    "main.js": "/React-Searchbar/static/js/main.621711f9.chunk.js",
-    "main.js.map": "/React-Searchbar/static/js/main.621711f9.chunk.js.map",
+    "main.css": "/React-Searchbar/static/css/main.d8d1a5b4.chunk.css",
+    "main.js": "/React-Searchbar/static/js/main.72d36c00.chunk.js",
+    "main.js.map": "/React-Searchbar/static/js/main.72d36c00.chunk.js.map",
     "runtime-main.js": "/React-Searchbar/static/js/runtime-main.afc86f5d.js",
     "runtime-main.js.map": "/React-Searchbar/static/js/runtime-main.afc86f5d.js.map",
     "static/js/2.85d86bbd.chunk.js": "/React-Searchbar/static/js/2.85d86bbd.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.19aeed7a.chunk.js": "/React-Searchbar/static/js/3.19aeed7a.chunk.js",
     "static/js/3.19aeed7a.chunk.js.map": "/React-Searchbar/static/js/3.19aeed7a.chunk.js.map",
     "index.html": "/React-Searchbar/index.html",
-    "static/css/main.e9bc1ab0.chunk.css.map": "/React-Searchbar/static/css/main.e9bc1ab0.chunk.css.map",
+    "static/css/main.d8d1a5b4.chunk.css.map": "/React-Searchbar/static/css/main.d8d1a5b4.chunk.css.map",
     "static/js/2.85d86bbd.chunk.js.LICENSE.txt": "/React-Searchbar/static/js/2.85d86bbd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Searchbar/static/media/bg.cc0f3e36.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.afc86f5d.js",
     "static/js/2.85d86bbd.chunk.js",
-    "static/css/main.e9bc1ab0.chunk.css",
-    "static/js/main.621711f9.chunk.js"
+    "static/css/main.d8d1a5b4.chunk.css",
+    "static/js/main.72d36c00.chunk.js"
   ]
 }
